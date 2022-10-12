@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1rxw6jlar8egk.amplifyapp.com
 prod: https://master.d1rxw6jlar8egk.amplifyapp.com
-shareicon: /images/eunps-logo.svg
+shareicon: /images/epslogo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
