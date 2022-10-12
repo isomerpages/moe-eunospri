@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Cyber Wellness.md
       - Mental Wellness by HPB.md
       - Measures to Manage Dengue Fever.md
       - Staff Appreciation Form.md
