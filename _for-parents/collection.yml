@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Measures to Manage Dengue Fever.md
       - Staff Appreciation Form.md
       - Forms and Downloads.md
       - Insurance for Students.md
