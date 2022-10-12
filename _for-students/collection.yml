@@ -2,5 +2,6 @@ collections:
   for-students:
     output: true
     order:
+      - Education and Career Guidance.md
       - Touch Typing.md
       - EP Shine.md
