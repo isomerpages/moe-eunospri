@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Student Development Team.md
       - Information and Communication Technology.md
       - Aesthetics.md
       - Physical and Health Education.md
