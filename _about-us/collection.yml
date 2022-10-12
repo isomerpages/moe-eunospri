@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements/Academic Achievements.md
-      - Achievements/CCA Achievements.md
-      - Achievements/.keep
       - Principal's Message.md
       - School Facilities.md
       - School History.md
+      - Achievements/.keep
+      - Achievements/Academic Achievements.md
+      - Achievements/CCA Achievements.md
       - Achievements.md
       - School Organisation Chart.md
       - Vision, Mission and Values.md
