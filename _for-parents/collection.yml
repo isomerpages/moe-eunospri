@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Resilience.md
       - Transition.md
