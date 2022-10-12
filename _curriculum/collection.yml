@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Science.md
       - Character Education/Overview.md
       - Character Education/Sexuality Education.md
       - Character Education/Cyberwellness.md
