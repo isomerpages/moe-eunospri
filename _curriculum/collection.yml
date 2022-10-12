@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Character Education/.keep
       - Student Development Team/Overview.md
       - Student Development Team/Student Leadership Committee.md
       - Student Development Team/.keep
