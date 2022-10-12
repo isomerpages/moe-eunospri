@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Eunos Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/eunps-logo.svg
 permalink: /
 notification: ""
 sections:
@@ -23,3 +23,4 @@ sections:
       image: /images/infopic.png
       alt: Image alt text
 ---
+
