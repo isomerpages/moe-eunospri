@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Information and Communication Technology.md
       - Aesthetics.md
       - Physical and Health Education.md
       - Programme for Active Learning (PAL).md
