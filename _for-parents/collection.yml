@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Insurance for Students.md
       - Resilience.md
       - Transition.md
