@@ -2,7 +2,7 @@
 layout: homepage
 title: Eunos Primary School
 description: Brief site description here
-image: /images/eunps-logo.svg
+image: /images/epslogo.png
 permalink: /
 notification: ""
 sections:
@@ -23,4 +23,5 @@ sections:
       image: /images/infopic.png
       alt: Image alt text
 ---
+
 
