@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Suppliers.md
       - Class Details.md
       - School Calendar.md
       - Contact Us.md
