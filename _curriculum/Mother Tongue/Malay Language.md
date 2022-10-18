@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue
 ---
 ### Malay Language
 
-#### Information & Programmes
+#### Information &amp; Programmes
 
 
 **MT Fortnight 2019**
@@ -19,7 +19,7 @@ Games booth was stationed in the hall for the P1 and P2 students where they were
 	
 The upper primary experienced more enriching activities. The P3 students learnt to make traditional kuih such as epok-epok and ondeh-ondeh. The P4 students learnt how to make Kipas pengantin using recycled materials. The P5 students experienced an enriching world of special vegetables that are used as ‘ulam’ and how to make ‘bedak sejuk’ a traditional face powder used by women before. The students benefited from this activity as they learnt the rich Malay culture as well as the rich vocabulary.
 
-SLIDE HERE
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRopV-M8v8cR6ENai2k_Fo-MXwQhmen_BinHA2J3bVlcs0PgOcESEej05dmJdJ98QsbRmM8eeYcqW0l/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 
 #### Hari Raya Celebration 2019
 
@@ -28,8 +28,8 @@ This year Eunos Primary teachers and pupils put up their own concert. The concer
   
 Malay Department has also organised recess activities where pupils learn more about Malay traditional costumes and traditional Hari Raya delicacies. Pupils get to sample some of the traditional cookies.
 
-SLIDE HERE
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVt6X9lkytYQzWfuyqxExzaaE8zjDD3keJA2p6sHgnknbLpXRIyvYdJI2I37Ta74Tf2dGN3BLBG-qs/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 
 #### Approved ML Dictionary List
 
-| Version : 04 Feb 2020 | [ML\_approved\_dictionary.pdf](/files/ML_approved_dictionary.pdf)   
+| Version : 04 Feb 2020 | [ML\_approved\_dictionary.pdf](/files/ML_approved_dictionary.pdf)
