@@ -48,6 +48,6 @@ Chinese literary writing competition is held every year to inspire writers to sh
 
 **External Competitions**
 
-External competitions are good platforms to stretch our students and develop them into confident communicators who are proficient users of the Chinese language.
+External competitions are good platforms to stretch our students and develop them into confident communicators who are proficient users of the Chinese language. 
 
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfhYzdIj-bTTcajxMD92aoJvrco59MWbqZisa0hrMWAOo1vo9Vmbo22pAcnIXoiLPoafEyYPpo_dp9/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
