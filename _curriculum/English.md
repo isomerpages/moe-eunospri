@@ -3,9 +3,7 @@ title: English
 permalink: /curriculum/english/
 description: ""
 ---
-### English
-
-#### EL Department
+### EL Department
 
 **Head of Department**  
 Ms Charmain Han Mingfang ([han\_mingfang\_charmain@moe.edu.sg](mailto:han_mingfang_charmain@moe.edu.sg))
