@@ -7,7 +7,7 @@ description: ""
 
 #### Group Personal Accident (GPA) Insurance Plan for Students
 
- <p><a href="https://studentgpa.incomegroupins.com.sg/#/"><img style="width:65%" src="/images/gpai.png"></a></p>
+<a href="https://studentgpa.incomegroupins.com.sg/#/"><img style="width:65%" src="/images/gpai.png"></a>
  
 [https://studentgpa.incomegroupins.com.sg/#/](https://studentgpa.incomegroupins.com.sg/#/)  
 
