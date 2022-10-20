@@ -3,11 +3,11 @@ title: News and Announcement
 permalink: /news/
 description: ""
 ---
-![](/images/snacks.png)
+#### News and Announcement
 
 **Easy Snacks for Break Time**
 
-Please [click here](link here) for useful infographic in preparing healthy snacks for students during class breaks.
+Please [click here](https://staging.d1rxw6jlar8egk.amplifyapp.com/images/snacks.png) for useful infographic in preparing healthy snacks for students during class breaks.
 
 **Cyber Wellness Updates**
 
