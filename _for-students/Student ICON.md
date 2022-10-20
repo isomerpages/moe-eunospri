@@ -8,7 +8,7 @@ description: ""
 #### Student ICON
 
 
- <p><a href="https://workspace.google.com/dashboard"><img style="width:45%" src="/images/si.png"></a></p>
+<a href="https://workspace.google.com/dashboard"><img style="width:45%" src="/images/si.png"></a>
   
   
   
