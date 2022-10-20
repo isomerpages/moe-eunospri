@@ -2,8 +2,8 @@ collections:
   for-students:
     output: true
     order:
-      - Teachers' Day Wishes 2022.md
       - Full HBL for P3 and P4 during PSLE written.md
+      - Teachers' Day Wishes 2022.md
       - Student ICON.md
       - Student Learning Space (SLS).md
       - Koobits.md
