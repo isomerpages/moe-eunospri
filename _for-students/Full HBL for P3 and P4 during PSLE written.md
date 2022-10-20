@@ -10,4 +10,4 @@ description: ""
   
  Please refer to this [link](https://sites.google.com/moe.edu.sg/epshome2022/home) for above mentioned home assignments.
  
-  <p><a href="https://sites.google.com/moe.edu.sg/epshome2022/home"><img style="width:75%" src="/images/hbl1.png"></a></p>
+<a href="https://sites.google.com/moe.edu.sg/epshome2022/home"><img style="width:75%" src="/images/hbl1.png"></a>
