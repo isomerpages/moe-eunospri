@@ -17,4 +17,3 @@ Please [click here](https://staging.d1rxw6jlar8egk.amplifyapp.com/for-parents/c
 
 Parents Gateway is a new digital platform developed by Ministry of Education (MOE) and GovTech to bring greater convenience to parents... click [here](https://staging.d1rxw6jlar8egk.amplifyapp.com/for-parents/parents-gateway/) for more info.
 
-Copyright © 2019 Eunos Primary School. All Rights Reserved
