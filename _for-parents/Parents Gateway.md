@@ -37,7 +37,7 @@ For assistance to download the Parents Gateway Mobile Application, you may
 
 <iframe width="690" height="445" src="https://www.youtube.com/embed/tW9jwyuovOo" title="Parents Gateway Onboarding video for Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="/images/pgw1.png" style="width:50%">
+<img src="/images/pgw1.png" style="width:30%">
 
 Kindly download the Parents Gateway at 
 
@@ -57,14 +57,14 @@ To safeguard our students’ data, only parents who are registered in the offici
 
 <img src="/images/pgw2.png" style="width:50%">
 
-2\.**Editing of Child’s Initials** – Based on parents’ requests to be able to edit/customise their child’s initials in Parents Gateway (because identical children’s initials can be confusing), we have developed the necessary feature to meet this need.
+2\. **Editing of Child’s Initials** – Based on parents’ requests to be able to edit/customise their child’s initials in Parents Gateway (because identical children’s initials can be confusing), we have developed the necessary feature to meet this need.
 
-<figure><img src="/images/pgw3.png" style="width:65%"><figcaption> This enhancement will allow parents to customise their child’s initials in the Parents Gateway app, allowing for greater clarity and better user experience.</figcaption></figure>
+<figure><img src="/images/pgw3.png" style="width:45%"><figcaption> This enhancement will allow parents to customise their child’s initials in the Parents Gateway app, allowing for greater clarity and better user experience.</figcaption></figure>
 
 3\.**Improved Push Notifications Details** – Enhancements have been made to provide parents with useful information on push notifications. This will help parents gain better understanding on how they may use the push notification to their benefit.
 
-<img src="/images/pgw4.png" style="width:50%">
+<img src="/images/pgw4.png" style="width:30%">
 
 4\.**Change in Consent Form Response Text** – Changes have been made in the text requiring parents’ response in consent forms as shown below.
 
-<img src="/images/pgw5.png" style="width:50%">
+<img src="/images/pgw5.png" style="width:30%">
