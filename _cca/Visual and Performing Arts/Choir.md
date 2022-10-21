@@ -10,7 +10,7 @@ third_nav_title: Visual and Performing Arts
 
 **Teachers-in-Charge:**
 
-Ms Grace Tan ([tan\_enhui\_grace@moe.edu.sg](mailto:tan_enhui_grace@moe.edu.sg) )  
+Ms Grace Tan ([tan\_enhui\_grace@moe.edu.sg](mailto:tan_enhui_grace@moe.edu.sg)&nbsp;)  
 Mdm Elisha Jaafar ([elisha\_jaafar@moe.edu.sg](mailto:elisha_jaafar@moe.edu.sg))  
 Mdm Arafah Tajudin ([arafah\_tajudin@moe.edu.sg](mailto:arafah_tajudin@moe.edu.sg))
 
@@ -37,3 +37,5 @@ Singapore International Chorale Festival 2018 - Silver
 **CCA Promotion Video**
 
 Insert video here
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQBJLIh-OuVoIBkJeW_c-DKOXlirfSTy49mQs3kGEhtnVOJDgfuLrSm3ih8z4Evbqwbv5YBGjVTljqo/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
