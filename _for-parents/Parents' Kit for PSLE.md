@@ -27,7 +27,7 @@ This booklet provided information on all secondary schools in Singapore and was 
 Have a glimpse of the school grounds, meet the teachers and have an experience of each school culture – open houses provide opportunities to help you and your child choose a suitable secondary school.  
 [www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2022](http://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2022)
 
-**New PSLE Scoring System  **
+**New PSLE Scoring System**
 
 These websites provide detailed information on the revised PSLE scoring system (introduced in 2021), including how to calculate PSLE score.  
 [www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/changes-to-s1-posting.html](http://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/changes-to-s1-posting.html)  
