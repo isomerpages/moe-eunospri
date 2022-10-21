@@ -30,11 +30,11 @@ description: ""
 
 |  |  |
 |---|---|
-| <img src="/images/soc20.png" style="width:45%"><br><figure>Mr Matthew Toh<br>Admin Manager</figure> | <img src="/images/soc21.png" style="width:45%"><br><figure>Mr Terence Chin<br>Operations Manager</figure> |
+| <img src="/images/soc20.png" style="width:35%"><br><figure>Mr Matthew Toh<br>Admin Manager</figure> | <img src="/images/soc21.png" style="width:35%"><br><figure>Mr Terence Chin<br>Operations Manager</figure> |
 
 ##### Primary 6
 
 |  |  |  |  |
 |---|---|---|---|
 | <img src="/images/soc22.png" style="width:70%"><br>Miss Tan Zhao Lin | <img src="/images/soc23.png" style="width:60%"><br>Miss Nur Hafizah | <img src="/images/soc24.png" style="width:70%"><br>Miss Tammy Teo | <img src="/images/soc25.png" style="width:70%"><br>Ms Ang Ming'en |
-| <img src="/images/soc26.png" style="width:80%"><br><br>Mr Aw Yang Ming | <img src="/images/soc27.png" style="width:75%"><br><br>Mdm Khaziah Yem<br>ST MT(Malay) |   |   |
+| <img src="/images/soc26.png" style="width:80%"><br><br>Mr Aw Yang Ming | <img src="/images/soc27.png" style="width:70%"><br><br>Mdm Khaziah Yem<br>ST MT(Malay) |   |   |
