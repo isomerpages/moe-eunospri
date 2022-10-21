@@ -4,7 +4,7 @@ permalink: /cca/Visual-and-Performing-Arts/art-and-crafts/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-### Art & Crafts
+### Art &amp; Crafts
 
 #### Visual Arts
 
@@ -35,5 +35,6 @@ SYF 2013 – Certificate of Recognition (Category C)
 
 **CCA Promotion Video**
 
-Insert video here. 
+Insert video here.
 
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlKNQwTY0tqgkVt-xMC4TLOJg-5dePZYOKkWodjLGS-UTb9X6arUIqWfoW3NcP7TbFo81_8RyHEQzD/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
