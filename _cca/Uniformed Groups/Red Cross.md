@@ -33,3 +33,5 @@ It has been a most rewarding journey for our members and we are honoured that ma
 **CCA Promotion Video**
 
 Insert video here.
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRThat_xI-Mt-hvY4lV5kdixpI9rk1kLFw4qYPJMDdLFSRL_z-mpOEn2wRM6L4XsD4qPKA6CkdRD0Tc/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
