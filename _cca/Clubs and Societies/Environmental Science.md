@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 ### Environmental Science
 
-#### Clubs & Societies
+#### Clubs &amp; Societies
 
 **Teachers in charge:**
 
@@ -38,10 +38,12 @@ To lead in advocating care for the environment in school and the community
 
 * provide opportunities for character and leadership development.
 
-* equip Green Ambassador with the knowledge, skills and values to empower them to be agents of change.
+* equip Green Ambassador with the knowledge, skills and values to empower them to be&nbsp;agents of change.
 
 * engage Green Ambassadors in innovative projects related to environmental concerns.
 
 **CCA Promotion Video**
 
 Insert video here.
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJ1qmQTu39eFmbvNDk06FAXsVUw7TfURJKoysZzoLk9401NRzoqImfDZ3kygViNC6yj2iqUZv5BbO6/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
