@@ -1,0 +1,16 @@
+logo: /images/epslogo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: CCA
+    collection: cca
+  - title: Events
+    collection: events
+  - title: For Parents
+    collection: for-parents
+  - title: For Students
+    collection: for-students
+  - title: For Teachers
+    url: /for-teachers/useful-links/

@@ -1,0 +1,18 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Facilities.md
+      - School History.md
+      - Achievements/.keep
+      - Achievements/Academic Achievements.md
+      - Achievements/CCA Achievements.md
+      - School Organisation Chart.md
+      - Vision, Mission and Values.md
+      - School Rules.md
+      - School Suppliers.md
+      - Class Details.md
+      - School Calendar.md
+      - Contact Us.md
+      - Gallery.md

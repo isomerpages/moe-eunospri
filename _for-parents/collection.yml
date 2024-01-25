@@ -1,0 +1,14 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Parents' Kit for PSLE.md
+      - Parents Gateway.md
+      - Cyber Wellness.md
+      - Mental Wellness by HPB.md
+      - Measures to Manage Dengue Fever.md
+      - Staff Appreciation Form.md
+      - Forms and Downloads.md
+      - Insurance for Students.md
+      - Resilience.md
+      - Transition.md

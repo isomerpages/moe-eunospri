@@ -1,0 +1,23 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English.md
+      - Mother Tongue/Overview.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
+      - Mother Tongue/.keep
+      - Mathematics.md
+      - Science.md
+      - Character Education/Overview.md
+      - Character Education/Sexuality Education.md
+      - Character Education/Cyberwellness.md
+      - Character Education/.keep
+      - Student Development Team/Overview.md
+      - Student Development Team/Student Leadership Committee.md
+      - Student Development Team/.keep
+      - Information and Communication Technology.md
+      - Aesthetics.md
+      - Physical and Health Education.md
+      - Programme for Active Learning (PAL).md

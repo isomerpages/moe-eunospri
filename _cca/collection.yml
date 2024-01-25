@@ -1,0 +1,25 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA Policy.md
+      - Clubs and Societies/Overview.md
+      - Clubs and Societies/Infocomm Technology.md
+      - Clubs and Societies/Robotics Club.md
+      - Clubs and Societies/Environmental Science.md
+      - Clubs and Societies/.keep
+      - Visual and Performing Arts/Overview.md
+      - Visual and Performing Arts/Art and Crafts.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Modern Dance.md
+      - Visual and Performing Arts/Cultural Dance.md
+      - Visual and Performing Arts/.keep
+      - Uniformed Groups/Overview.md
+      - Uniformed Groups/Red Cross.md
+      - Uniformed Groups/.keep
+      - Sports/Overview.md
+      - Sports/Basketball.md
+      - Sports/Netball.md
+      - Sports/Football.md
+      - Sports/Wushu.md
+      - Sports/.keep

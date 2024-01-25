@@ -1,0 +1,14 @@
+collections:
+  for-students:
+    output: true
+    order:
+      - Full HBL for P3 and P4 during PSLE written.md
+      - Teachers' Day Wishes 2022.md
+      - Student ICON.md
+      - Student Learning Space (SLS).md
+      - Koobits.md
+      - MyON.md
+      - Code For Fun 2022.md
+      - Education and Career Guidance.md
+      - Touch Typing.md
+      - EP Shine.md
